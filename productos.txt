@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Producto",
+    "price": 50,
+    "url": "url",
+    "id": 1
+  },
+  {
+    "name": "Coca Cola lata 375ml",
+    "price": 80,
+    "url": "https://img.lalr.co/cms/2017/04/12033800/Productos_Vendidos_CocaCola1204.jpg?size=xl&ratio=r40_21",
+    "id": 2
+  },
+  {
+    "name": "Galletita Toddy 126gr",
+    "price": 120,
+    "url": "https://www.grupoelnene.com.ar/5711/galletitas-toddy-chispas-chocolate-x126gr.jpg",
+    "id": 3
+  },
+  {
+    "name": "Gomitas Mogul Dientes 150gr", 
+    "price": 90, 
+    "url": "https://farmacityar.vteximg.com.br/arquivos/ids/164187-1000-1000/135409_pastillas-de-goma-dientes-sabor-frutiila-fresa-y-yogurt-x-150-gr_imagen-1.jpg?v=636670330582030000",
+    "id": 4
+  }
+]
